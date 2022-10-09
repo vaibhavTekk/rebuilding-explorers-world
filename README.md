@@ -51,3 +51,6 @@ Feel free to check [our documentation](https://docs.astro.build) or jump into As
 Check out the [DoK Slack channel](https://dokcommunity.slack.com/archives/C029SP0H937) for updates and discussion. 
 Checkout out the [Dok YouTube channel](https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ) for more information, talks, discussions, and raps!!!
 And sign up to the update [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSeNTRsesRA7-1uMyFeHMMqfG9IgdVd7soY_L4wx5WqeDUcMjA/viewform) to be able to join the bi-weekly progress calls!
+
+### Contributors
+

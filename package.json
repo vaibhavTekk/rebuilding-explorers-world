@@ -1,0 +1,16 @@
+{
+  "name": "rebuilding-explorers-world",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/dokc/rebuilding-explorers-world.git",
+  "author": "Abhijith Ganesh",
+  "license": "BSD-III",
+  "private": false,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  }
+}

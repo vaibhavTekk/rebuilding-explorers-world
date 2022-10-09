@@ -54,6 +54,12 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 👀 Want to learn more about ASTRO?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## Contact
+
+Check out the [DoK Slack channel](https://dokcommunity.slack.com/archives/C029SP0H937) for updates and discussion. 
+Checkout out the [Dok YouTube channel](https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ) for more information, talks, discussions, and raps!!!
+And sign up to the update [newsletter](https://docs.google.com/forms/d/e/1FAIpQLSeNTRsesRA7-1uMyFeHMMqfG9IgdVd7soY_L4wx5WqeDUcMjA/viewform) to be able to join the bi-weekly progress calls!

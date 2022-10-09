@@ -8,6 +8,20 @@ Welcome to the Explorer's world, Here we are trying to rebuild the previously bu
 - Making an application with appropriate authentication pages
 - Add server-side rendered pages appropriately.
 
+
+
+## Project Description
+
+We are working on replicating the existing [Explorer's World](https://explorersworlddok.gtsb.io/). Previously, the repository was using [next.js](nextjs.org/). We are migrating to Astro to allow more flexibility.
+
+### Reasons why we are using Astro
+- We become framework agnostic
+- It is faster than any other framework
+- YOU CAN CODE HTML AS A COMPONENT/PAGE and it still works
+- Incredibly easy to work with.
+
+As the project progresses, we will be transferring major components to Astro.
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
